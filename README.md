@@ -8,4 +8,4 @@ Projeto de API REST desenvolvido em Java e Spring Boot para gerenciamento de tar
 * PostgreSQL
 * Docker & Docker Compose
 * 
-# Testando funcionalidade JWT na nova branch
+# Testando funcionalidade JWT na nova branch PULL
